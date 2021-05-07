@@ -1,0 +1,10 @@
+{
+  "robotsparebin": {
+    "username": "maria",
+    "password": "thoushallnotpass"
+  },
+  "course2": {
+    "link": "https://robotsparebinindustries.com/orders.csv",
+    "link2": "https://robotsparebinindustries.com/#/robot-order"
+  }
+}
